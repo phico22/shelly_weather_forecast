@@ -4,6 +4,7 @@ Abhängig von der Uhrzeit, der aktuellen Kesselthemperatur und der Wettervorhers
 ## Hardware
 - Shelly Plus 2PM
 - Shelly Plus Add-On für Themperatursensoren
+- Tauchsieder (1,5 kW)
 
 ## Grober Prozessablauf
 
@@ -23,5 +24,8 @@ flowchart TD
 ```
 
 
-## Fragen
-- Tauchsieder schaltet automatisch ab?
+## Offene Fragen
+- Schaltet Tauchsieder automatisch ab bei gewünschter Temperatur?
+
+## Hilfreiche Links
+-  [Smart-heating-management-with-Shelly](https://github.com/LeivoSepp/Smart-heating-management-with-Shelly)
