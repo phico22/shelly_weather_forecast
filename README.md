@@ -30,4 +30,5 @@ flowchart TD
 
 ## Hilfreiche Links
 -  [Smart-heating-management-with-Shelly](https://github.com/LeivoSepp/Smart-heating-management-with-Shelly)
--  [PV Forecast ](https://toolkit.solcast.com.au/)
+-  [SOLACAST PV Forecast](https://toolkit.solcast.com.au/)
+-  [Open Meteo Forecast](https://open-meteo.com/en/docs#latitude=53.5507&longitude=9.993&hourly=temperature_2m,cloud_cover,shortwave_radiation,direct_radiation&timezone=Europe%2FBerlin&forecast_days=1&tilt=2&azimuth=3)
